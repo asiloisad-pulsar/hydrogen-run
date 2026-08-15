@@ -2,15 +2,15 @@
 
 A superset of commands to improve hydrogen workflow.
 
-![demo](https://github.com/asiloisad/pulsar-hydrogen-run/blob/master/assets/demo.gif?raw=true)
+![demo](https://github.com/asiloisad-pulsar/hydrogen-run/blob/master/assets/demo.gif?raw=true)
 
-Consider to use [hydrogen-next](https://github.com/asiloisad/pulsar-hydrogen-next) or [jupyter-next](https://github.com/asiloisad/pulsar-jupyter-next) instead.
+Consider to use [hydrogen-next](https://github.com/asiloisad-pulsar/hydrogen-next) or [jupyter-next](https://github.com/asiloisad-pulsar/jupyter-next) instead.
 
 ## Installation
 
 To install `hydrogen-run` search for [hydrogen-run](https://web.pulsar-edit.dev/packages/hydrogen-run) in the Install pane of the Pulsar settings or run `ppm install hydrogen-run`. Alternatively, you can run `ppm install asiloisad/pulsar-hydrogen-run` to install a package directly from the GitHub repository.
 
-Requires [hydrogen-next](https://github.com/asiloisad/pulsar-hydrogen-next) or [hydrogen](https://github.com/nteract/hydrogen).
+Requires [hydrogen-next](https://github.com/asiloisad-pulsar/hydrogen-next) or [hydrogen](https://github.com/nteract/hydrogen).
 
 ## Commands
 
