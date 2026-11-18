@@ -2,6 +2,9 @@
 
 A superset of commands to improve hydrogen workflow.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [jupyter-cells](https://github.com/lumine-code/jupyter-cells) and [jupyter-repl](https://github.com/lumine-code/jupyter-repl).
+
 ![demo](https://github.com/asiloisad-pulsar/hydrogen-run/blob/master/assets/demo.gif?raw=true)
 
 Consider to use [hydrogen-next](https://github.com/asiloisad-pulsar/hydrogen-next) or [jupyter-next](https://github.com/asiloisad-pulsar/jupyter-next) instead.
